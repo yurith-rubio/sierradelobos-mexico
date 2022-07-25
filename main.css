@@ -1,11 +1,17 @@
 body{
     margin: 0;
+    background-color: aliceblue;
 }
-h1{
-    font-size: 40px;
+h1, h2{
     font-family: sans-serif;
     color: white;
     font-weight: bold;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
 }
 header{
     background-image: url("./sierra1.jpg");
@@ -16,7 +22,14 @@ header{
 }
 section{
     height: 90vh;
+    padding: 30px;
 }
-.strongMessage{
+.section1{
+
+}
+.contentWrapper{
+    max-width: 1200px;
+}
+.strongMessage, .mainMessage{
     max-width: 600px;
 }
