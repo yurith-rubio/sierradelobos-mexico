@@ -23,6 +23,8 @@ header{
 section{
     height: 90vh;
     padding: 30px;
+    display: flex;
+    align-items: center;
 }
 .section1{
 
