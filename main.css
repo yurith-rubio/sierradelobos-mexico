@@ -4,11 +4,11 @@ body{
 }
 h1, h2{
     font-family: sans-serif;
-    color: white;
     font-weight: bold;
 }
 h1{
     font-size: 40px;
+    color: white;
 }
 h2{
     font-size: 30px;
