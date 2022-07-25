@@ -6,10 +6,13 @@ h1{
 }
 header{
     background-image: url("./sierra1.jpg");
-    height: 60vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+section{
+    height: 90vh;
 }
 .strongMessage{
     max-width: 600px;
